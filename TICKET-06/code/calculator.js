@@ -83,7 +83,7 @@ function storeMemory(value) {
 }
 
 /**
- * Recall memory value
+ * Recall memory Value
  */
 function recallMemory() {
   return memory
